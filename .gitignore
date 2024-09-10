@@ -1,0 +1,17 @@
+# Build Folders
+bin/
+obj/
+out/
+
+# Auto-generated files by NuGet
+*.nupkg
+*.snupkg
+.nuget/
+.nuget/packages/
+
+# Visual Studio caches and logs
+.vs/
+.vs/*
+
+# Secrets and Keys
+appsettings.*.json
